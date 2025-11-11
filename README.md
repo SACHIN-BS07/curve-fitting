@@ -1,4 +1,6 @@
 # curve-fitting
+"Implement linear regression functions in README
+Added detailed implementation of linear regression fitting, prediction, and R-squared calculation."
 
 from typing import Sequence, Tuple, List
 import argparse
