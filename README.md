@@ -10,7 +10,7 @@ import sys
 def parse_sequence(s: str) -> List[float]:
     
   if s is None:
-        return []
+        return [] 
     # allow commas or whitespace as separators
     s = s.strip()
     if not s:
